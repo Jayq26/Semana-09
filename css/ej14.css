@@ -1,0 +1,9 @@
+#cabecera,#cabecera2{
+    font-family: Verdana, Geneva, Tahoma;
+    font-size: 30px;
+    text-align: center;
+    color: #00f;
+    background-color: #bbb;
+    width: 500px;
+    margin: 0 auto;
+}
